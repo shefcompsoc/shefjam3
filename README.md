@@ -11,4 +11,4 @@ This offical git repo hosts information about the event as well as showcasing th
 
 [Resources &rarr;](./RESOURCES.md)
 
-[Entries (after event) &rarr;](./ENTRIES.md)
+[Entries &rarr;](./ENTRIES.md)
