@@ -10,7 +10,7 @@ These are some free game dev resources we believe to be use, yet you can use wha
 
 ### Graphics
 - [aseprite](http://www.aseprite.org) is an excellent animated pixel-art editor. The newest version costs money, but there’s a [free older version](http://www.aseprite.org/older-versions/) available. That version can be a bit buggy, so be sure to save often.
-- [Krita](https://krita.org/en/) Krita is a professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+- [Krita](https://krita.org/en/) is a professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 - [Paint.NET](http://www.getpaint.net/index.html) and [GIMP](https://www.gimp.org) are both good free alternatives to Photoshop. Paint.NET's UI is a bit more user-friendly, though.
 - [Blender](https://www.blender.org) is the best free 3D modelling software available.
 - [OpenGameArt.Org](http://opengameart.org) provides open game assets. Note the second rule if you do use this, however.
